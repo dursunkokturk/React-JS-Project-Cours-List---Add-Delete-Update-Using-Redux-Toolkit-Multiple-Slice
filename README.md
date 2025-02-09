@@ -6,6 +6,9 @@
 # Slice ve Store Kullanımı
 Slice kullanılarak form üzerinden alınan data'ları store üzerinden database'e gönderme.
 
+# Database'den Data Alma
+useSelector kullanılarak database'den data'ları alma.
+
 ======================================================================================================================================================================================================================================
 # Getting Started with Create React App
 
