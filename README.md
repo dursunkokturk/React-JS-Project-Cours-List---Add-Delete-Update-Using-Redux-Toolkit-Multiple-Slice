@@ -9,7 +9,7 @@ Slice kullanılarak form üzerinden alınan data'ları store üzerinden database
 # Database'den Data Alma
 useSelector kullanılarak database'den data'ları alma.
 
-======================================================================================================================================================================================================================================
+=================================================================================================================================================================================================================================
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
