@@ -1,8 +1,12 @@
-Project Screens
+# Project Screens
 ![alt text](/ss/ss1.jpg)
 
 ![alt text](/ss/ss2.jpg)
 
+# Slice ve Store Kullanımı
+Slice kullanılarak form üzerinden alınan data'ları store üzerinden database'e gönderme.
+
+======================================================================================================================================================================================================================================
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
