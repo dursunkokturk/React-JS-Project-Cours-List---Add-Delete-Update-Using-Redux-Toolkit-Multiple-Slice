@@ -4,7 +4,7 @@
 ![alt text](/ss/ss2.jpg)
 
 # Slice ve Store Kullanımı
-Slice kullanılarak form üzerinden alınan data'ları store üzerinden database'e gönderme.
+Store klasörü içindeki slices klasörü içinde bulunan couseSlice.js ve formSlice.js dosyaları aracılığı ile kullanıcının girdiği form üzerinden alınan dataları, slice.js dosyasın üzerinden database'e gönderiyoruz.
 
 # Database'den Data Alma
 useSelector kullanılarak database'den data'ları alma.
