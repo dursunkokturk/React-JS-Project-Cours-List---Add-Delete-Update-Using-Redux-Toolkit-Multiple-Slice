@@ -3,11 +3,25 @@
 
 ![alt text](/ss/ss2.jpg)
 
+# Purpose of the Project
+Sending the data received from the user to the database using slice and store and printing it to the screen when requested.
+
+Usage React framework,
+Listing of courses added using the multiple slice structure in the redux toolkit package.
+Using the configureStore structure in the reduxjs toolkit package to array the added courses,
+Using the useSelector construct from the react-redux package to print courses in store to the screen,
+Adding the information entered on the form to the array structure in the store using dispatch.
+Searching in array structure in store using dispatch and useSelector.
+
+# Purpose of the Project
+Slice ve store kullanılarak kullanıcıdan alınan data'ları database'e gönderme ve istenildiğinde ekrana yazdırma.
+
 # Slice ve Store Kullanımı
 Store klasörü içindeki slices klasörü içinde bulunan couseSlice.js ve formSlice.js dosyaları aracılığı ile kullanıcının girdiği form üzerinden alınan dataları, slice.js dosyasın üzerinden database'e gönderiyoruz.
 
 # Database'den Data Alma
 useSelector kullanılarak database'den data'ları alma.
+
 
 =================================================================================================================================================================================================================================
 # Getting Started with Create React App
