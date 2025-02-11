@@ -6,6 +6,12 @@
 # Purpose of the Project
 Sending the data received from the user to the database using slice and store and printing it to the screen when requested.
 
+# Slice and Store Usage
+Through the couseSlice.js and formSlice.js files in the slices folder in the Store folder, we send the data received from the form entered by the user to the database via the slice.js file.
+
+# Getting Data from Database
+Retrieving data from database using useSelector.
+
 Usage React framework,
 Listing of courses added using the multiple slice structure in the redux toolkit package.
 Using the configureStore structure in the reduxjs toolkit package to array the added courses,
