@@ -12,12 +12,13 @@ Through the couseSlice.js and formSlice.js files in the slices folder in the Sto
 # Getting Data from Database
 Retrieving data from database using useSelector.
 
-Usage React framework,
-Listing of courses added using the multiple slice structure in the redux toolkit package.
-Using the configureStore structure in the reduxjs toolkit package to array the added courses,
-Using the useSelector construct from the react-redux package to print courses in store to the screen,
-Adding the information entered on the form to the array structure in the store using dispatch.
-Searching in array structure in store using dispatch and useSelector.
+# Steps in the Creation of the Project
+* Usage React framework,
+* Listing of courses added using the multiple slice structure in the redux toolkit package.
+* Using the configureStore structure in the reduxjs toolkit package to array the added courses,
+*  Using the useSelector construct from the react-redux package to print courses in store to the screen,
+* Adding the information entered on the form to the array structure in the store using dispatch.
+* Searching in array structure in store using dispatch and useSelector.
 
 # Projenin Amacı
 Slice ve store kullanılarak kullanıcıdan alınan data'ları database'e gönderme ve istenildiğinde ekrana yazdırma.
