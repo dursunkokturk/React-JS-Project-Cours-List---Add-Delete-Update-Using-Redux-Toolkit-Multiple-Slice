@@ -13,7 +13,7 @@ Using the useSelector construct from the react-redux package to print courses in
 Adding the information entered on the form to the array structure in the store using dispatch.
 Searching in array structure in store using dispatch and useSelector.
 
-# Purpose of the Project
+# Projenin Amacı
 Slice ve store kullanılarak kullanıcıdan alınan data'ları database'e gönderme ve istenildiğinde ekrana yazdırma.
 
 # Slice ve Store Kullanımı
